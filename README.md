@@ -1,0 +1,1 @@
+# Communication-between-Raspberry-pi-and-Android-Phone-app-BlueTerm
